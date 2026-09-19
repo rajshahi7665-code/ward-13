@@ -1,3 +1,26 @@
+# 🏥 WARD 13
+
+### Think you're brave enough?
+
+Enter the abandoned Ward 13.
+
+Explore. Survive. Discover what happened.
+
+⚠️ The hospital isn't as empty as it looks...
+
+## 🎮 PLAY THE PROLOGUE
+
+Think you've got what it takes?
+
+**Enter Ward 13 and see how far you can survive.**
+
+### 🕹️ Controls
+- WASD / Arrow Keys — Move
+- E — Interact
+- ESC — Pause
+
+> **Dare yourself. Enter Ward 13.**
+> 
 # 🏥 Ward 13 — Prologue
 
 > A 2D atmospheric survival-horror game set inside an abandoned hospital.
