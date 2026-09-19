@@ -23,7 +23,7 @@ This is the **Prologue** — the first playable version of the game.
 
 Play Ward 13 directly in your browser:
 
-**https://YOUR-LINK-HERE**
+**https://rajshahi7665-code.github.io/war-13/**
 
 No installation required.
 
