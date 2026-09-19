@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#080a0a" />
+  <title>Ward 13 — Prologue</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="shell">
+    <header class="titlebar"><span>WARD 13</span><small>PROLOGUE // BUILD 0.1</small></header>
+    <section id="gameFrame" aria-label="Ward 13 game">
+      <canvas id="game" width="480" height="270" aria-label="Ward 13 playable game"></canvas>
+      <div id="overlay" class="overlay">
+        <div class="intro-card">
+          <p class="eyebrow">WARD 13 // PROLOGUE</p>
+          <h1>THE OPERATING THEATRE</h1>
+          <p>You wake with no memory. The hospital remembers everything.</p>
+          <button id="start">WAKE UP</button>
+          <small>WASD move &nbsp; · &nbsp; SHIFT run &nbsp; · &nbsp; E interact &nbsp; · &nbsp; SPACE attack &nbsp; · &nbsp; Q Echo Sight &nbsp; · &nbsp; F flashlight</small>
+        </div>
+      </div>
+      <div id="touch" aria-hidden="true"><button data-key="KeyA">◀</button><button data-key="KeyD">▶</button><button data-key="KeyE">E</button><button data-key="KeyQ">◉</button></div>
+    </section>
+    <footer><span>RAVI KISHAN</span><span>WARD 13 IS NOT EMPTY.</span></footer>
+  </main>
+  <script src="game.js"></script>
+</body>
+</html>
